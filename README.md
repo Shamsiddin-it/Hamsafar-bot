@@ -1,7 +1,3 @@
-Got it! Here's a beautifully styled **README.md** content presented as **plain text (not markdown)** — just like you'd see it rendered on GitHub, but outside of markdown formatting:
-
----
-
 # 🚖 HamSafar Bot – Telegram Ride-Sharing Assistant
 
 **HamSafar Bot** is a simple and smart Telegram bot designed to connect **drivers** and **passengers** for intercity or regional travel. Whether you're offering a ride or looking for one — HamSafar makes it easier to find your travel partner!
@@ -84,6 +80,3 @@ This project is inspired by the real needs of regional travel coordination in Ta
 **Created by:** Shamsiddin
 For questions or collaboration, feel free to reach out via Telegram or GitHub.
 
----
-
-Let me know if you'd like a **Tajik version** or a `.md` file export of this.
